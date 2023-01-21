@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-21T08:27:42 IST" name="Default suite" finished-at="2023-01-21T08:28:09 IST" duration-ms="26652">
+    <groups>
+    </groups>
+    <test started-at="2023-01-21T08:27:42 IST" name="Default test" finished-at="2023-01-21T08:28:09 IST" duration-ms="26652">
+      <class name="NxtGen_TestPages.Register_Test_Functionality">
+        <test-method is-config="true" signature="openwindow()[pri:0, instance:NxtGen_TestPages.Register_Test_Functionality@2d52216b]" started-at="2023-01-21T08:27:43 IST" name="openwindow" finished-at="2023-01-21T08:28:05 IST" duration-ms="22833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openwindow -->
+        <test-method signature="Validate_Titles()[pri:1, instance:NxtGen_TestPages.Register_Test_Functionality@2d52216b]" started-at="2023-01-21T08:28:05 IST" name="Validate_Titles" finished-at="2023-01-21T08:28:05 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Titles -->
+        <test-method signature="Validate_RegisterPage()[pri:2, instance:NxtGen_TestPages.Register_Test_Functionality@2d52216b]" started-at="2023-01-21T08:28:05 IST" name="Validate_RegisterPage" finished-at="2023-01-21T08:28:09 IST" duration-ms="3562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_RegisterPage -->
+        <test-method is-config="true" signature="closewindow()[pri:0, instance:NxtGen_TestPages.Register_Test_Functionality@2d52216b]" started-at="2023-01-21T08:28:09 IST" name="closewindow" finished-at="2023-01-21T08:28:09 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+      </class> <!-- NxtGen_TestPages.Register_Test_Functionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
