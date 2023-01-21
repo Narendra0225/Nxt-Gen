@@ -32,6 +32,10 @@ public class Alert_Test_Functionality extends Base_Class{
 	public void Validate_RegisterPage() throws InterruptedException {
 		demo.validate_DemoandRegiter();
 	}
+	@Test(priority = 3)
+	public void Validate_5RegisterPage() throws InterruptedException {
+		demo.validate_DemoandRegiter();
+	}
 	
 	@BeforeClass
 	public void openwindow() {
